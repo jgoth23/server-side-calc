@@ -1,0 +1,19 @@
+{
+  "name": "server-side-calc",
+  "version": "1.0.0",
+  "description": "[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgoth23/server-side-calc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgoth23/server-side-calc/issues"
+  },
+  "homepage": "https://github.com/jgoth23/server-side-calc#readme"
+}
