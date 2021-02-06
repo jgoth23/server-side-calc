@@ -14,7 +14,7 @@ Create an app that interacts with the server. This app will be a functionally wo
 ****TODO****
 - [X] Start a README
 - [] Link html/server.js/client.js/css
-_ [] Get express pulled in and running
+_ [X] Get express pulled in and running
 - [] create 2 inputs that will take in the numbers
 - [] 6 buttons for math operators
 

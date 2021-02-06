@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jgoth23/server-side-calc/issues"
   },
-  "homepage": "https://github.com/jgoth23/server-side-calc#readme"
+  "homepage": "https://github.com/jgoth23/server-side-calc#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
 }
