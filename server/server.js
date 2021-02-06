@@ -6,6 +6,11 @@ const app = express();
 
 const port = 5000;
 
+// INCANTATION:
+// Share any files in "./server/public" folder
+
+app.use(express.static('server/public'));
+
 
 // Listen for network requests
 app.listen(port, function () {
