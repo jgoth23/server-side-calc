@@ -1,4 +1,5 @@
 const express = require('express');
+console.log('express', express);
 const guesses = require('./modules/guesses');
 
 // Create our app
