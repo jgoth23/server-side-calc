@@ -12,8 +12,8 @@ _____GOAL_____
 Create an app that interacts with the server. This app will be a functionally working calculator that does the math through the DOM.
 
 ****TODO****
-
-- [] Link html/js/css
+- [X] Start a README
+- [] Link html/server.js/client.js/css
 _ [] Get express pulled in and running
 - [] create 2 inputs that will take in the numbers
 - [] 6 buttons for math operators
