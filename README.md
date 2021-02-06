@@ -13,10 +13,10 @@ Create an app that interacts with the server. This app will be a functionally wo
 
 ****TODO****
 - [X] Start a README
-- [] Link html/server.js/client.js/css
+- [X] Link html/server.js/client.js/css
 _ [X] Get express pulled in and running
-- [] create 2 inputs that will take in the numbers
-- [] 6 buttons for math operators
+- [X] create 2 inputs that will take in the numbers
+- [X] 6 buttons for math operators
 
 
 
