@@ -1,3 +1,4 @@
+const { urlencoded } = require('body-parser');
 const express = require('express');
 console.log('express', express);
 
@@ -10,6 +11,8 @@ const port = 5000;
 // Share any files in "./server/public" folder
 
 app.use(express.static('server/public'));
+app.use(express.json());
+app.use(urlencoded({extended: true}))
 
 
 // Listen for network requests
