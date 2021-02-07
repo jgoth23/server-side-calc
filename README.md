@@ -17,6 +17,15 @@ Create an app that interacts with the server. This app will be a functionally wo
 _ [X] Get express pulled in and running
 - [X] create 2 inputs that will take in the numbers
 - [X] 6 buttons for math operators
+- [X] Render math history to the DOM
+***Server Side***
+- [X] Take in math operations and compute them
+- [] Once complete send back OK 
+- [] GET/POST to get actual calculation
+***History***
+- [X] Keep history of equations on the server
+- [X] Update history when new calculations are made
+- [X] History should remain even after refresh
 
 
 
