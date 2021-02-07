@@ -2,8 +2,6 @@ html {
   height: 100%;
 }
 body {
-  height: 100%;
-  background: rgb(200,103,207);
-background: linear-gradient(0deg, rgba(200,103,207,1) 0%, rgba(162,245,244,1) 100%);
-  
+  background: rgb(2,0,36);
+background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(187,29,9,1) 35%, rgba(255,244,110,1) 100%);
 }
